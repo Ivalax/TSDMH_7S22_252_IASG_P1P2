@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TSDMH_7S22_252_IASG_P1P2</string>
+    <string name="p1t1">Menu de Operaciones</string>
+    <string name="h1">Aqui va el primer numero</string>
+    <string name="h2">Aqui va el segundo numero</string>
+    <string name="p1btn1">Suma</string>
+    <string name="p1btn2">Resta</string>
+    <string name="p1btn3">Division</string>
+    <string name="p1btn4">Multiplicacion</string>
+    <string name="resultado">El resultado de la operacion es:</string>
+</resources>
